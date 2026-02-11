@@ -27,7 +27,7 @@ Interactive performance monitoring dashboard built in Power BI to track player i
 ### Player snapshot page
 ![Player Snapshot](docs/screenshots/player_snapshot.png)
 
-## How to run (optional)
+## How to run
 1. Create and activate a Python virtual environment
 2. Install requirements
 3. Run the starter walkthrough (exports CSVs to `outputs/powerbi/`)
@@ -45,26 +45,21 @@ This repo is intended as a portfolio example using ananomized player identifiers
 
 ---
 
-## Screenshot checklist (these are what recruiters actually understand)
-Put these two images into `docs/screenshots/`:
+## Screenshots
+This repo includes example screenshots of the Power BI model and report pages in `docs/screenshots/`:
+- `model_view.png` (data model + relationships)
+- `player_snapshot.png` (load and readiness trends)
 
-1) **Model view** screenshot (show the relationships)
-2) **Player Snapshot page** screenshot (load + readiness trends)
+## Reproducibility (optional)
+If you want to regenerate the Power BI-ready tables from the Python pipeline, install dependencies:
 
-In Power BI:
-- View → Model → screenshot
-- Report view → Player Snapshot → screenshot
+- `requirements.txt`:
+  - pandas
+  - numpy
+  - matplotlib
 
-Name them exactly:
-- `model_view.png`
-- `player_snapshot.png`
+  ---
 
----
+  Created By:
 
-## Requirements file (optional but nice)
-If you have Python scripts, add `requirements.txt`:
-
-```txt
-pandas
-numpy
-matplotlib
+  Samuel Rosario, PhD
