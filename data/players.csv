@@ -1,0 +1,11 @@
+player_id,player_name,position,status
+P01,Player 1,G,active
+P02,Player 2,F,active
+P03,Player 3,W,active
+P04,Player 4,F,active
+P05,Player 5,C,limited
+P06,Player 6,W,active
+P07,Player 7,W,active
+P08,Player 8,G,active
+P09,Player 9,G,active
+P10,Player 10,W,active

@@ -1,0 +1,5 @@
+Player: Player 1 (P01)  Position: G  Status: active
+Snapshot date: 2026-02-01
+Last 7 days internal load: 1686  (change vs prior 7 days: -25%)
+Readiness (z): today 2.03,  7-day avg 0.48
+Alerts: none

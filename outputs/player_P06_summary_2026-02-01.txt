@@ -1,0 +1,5 @@
+Player: Player 6 (P06)  Position: W  Status: active
+Snapshot date: 2026-02-01
+Last 7 days internal load: 1370  (change vs prior 7 days: -46%)
+Readiness (z): today -0.87,  7-day avg 0.31
+Alerts: none

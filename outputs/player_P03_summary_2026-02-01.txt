@@ -1,0 +1,5 @@
+Player: Player 3 (P03)  Position: W  Status: active
+Snapshot date: 2026-02-01
+Last 7 days internal load: 1842  (change vs prior 7 days: -12%)
+Readiness (z): today -0.14,  7-day avg 0.02
+Alerts: none

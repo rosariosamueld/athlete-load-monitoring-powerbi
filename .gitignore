@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI caches/temp
+powerbi/*.pbix
+*.pbix
+
+# Secrets
+.env
+*.key
+
+# Raw data (keep private)
+data/raw/
+data/private/
